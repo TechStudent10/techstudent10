@@ -11,3 +11,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a bunch of websites.
 - 📫 How to reach me: The Discussions Tab! Or my website: [https://techstudent11.herokuapp.com](https://techstudent11.herokuapp.com)
 - ⚡ Fun fact: I am young, like young young.
+
+<a href="https://github.com/TechStudent11">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechStudent11&show_icons=true&theme=tokyonight" />
+</a>
+<br>
+<a href="https://github.com/TechStudent11">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechStudent11&layout=compact&show_icons=true&theme=tokyonight" />
+</a>
