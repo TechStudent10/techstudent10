@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to create web apps.
 - 👯 I’m looking to collaborate on a bunch of websites.
 - 📫 How to reach me: The Discussions Tab! Or my website: [https://techstudent11.herokuapp.com](https://techstudent11.herokuapp.com)
-- ⚡ Fun fact: I like Python.
+- ⚡ Fun fact: "Expectations, are the theft if joy. - Marques Brownlee
 
 [![TechStudent11's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechStudent11&show_icons=true&theme=tokyonight)](https://github.com/TechStudent11)
