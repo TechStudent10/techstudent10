@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a bunch of websites.
 - 📫 How to reach me: The Discussions Tab! Or my website: [https://techstudent11.herokuapp.com](https://techstudent11.herokuapp.com)
 - ⚡ Fun fact: "Expectations are the thief of joy. - Marques Brownlee
+- 📹 Oh yeah, I have a YouTube channel now: https://www.youtube.com/channel/UCzb9_b2UY29xuY-S8BsmpOg
 
 [![TechStudent11's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechStudent11&show_icons=true&theme=tokyonight)](https://github.com/TechStudent11)
