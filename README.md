@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: "Expectations are the thief of joy." - Marques Brownlee
 - 📹 Oh yeah, I have a YouTube channel now: https://www.youtube.com/channel/UCzb9_b2UY29xuY-S8BsmpOg
 
-[![TechStudent11's GitHub stats](https://github-readme-stats.verc"el.app/api?username=TechStudent11&show_icons=true&theme=tokyonight)](https://github.com/TechStudent11)
+[![TechStudent11's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechStudent11&show_icons=true&theme=tokyonight)](https://github.com/TechStudent11)
