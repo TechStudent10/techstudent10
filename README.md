@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 <style>
-  .yt {
+  #yt {
 color: red;
 }
 </style>
