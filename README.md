@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Connect with me!
 
-[<img align="left" alt="Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color: red";" />][youtube]
+[<img id="yt" align="left" alt="Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
@@ -25,3 +25,10 @@ Here are some ideas to get you started:
 [![TechStudent11's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechStudent11&show_icons=true&theme=tokyonight)](https://github.com/TechStudent11)
 
 [youtube]: https://www.youtube.com/channel/UCzb9_b2UY29xuY-S8BsmpOg
+
+
+<style>
+  .yt {
+color: red;
+}
+</style>
