@@ -26,9 +26,3 @@ Here are some ideas to get you started:
 
 [youtube]: https://www.youtube.com/channel/UCzb9_b2UY29xuY-S8BsmpOg
 
-
-<style>
-  #yt {
-color: red;
-}
-</style>
