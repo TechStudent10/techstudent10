@@ -14,4 +14,15 @@ Here are some ideas to get you started:
 - 📹 Oh yeah, I have a YouTube channel now: https://www.youtube.com/channel/UCzb9_b2UY29xuY-S8BsmpOg
 <img src="https://komarev.com/ghpvc/?username=TechStudent11" alt="Profile Views" />
 
+# Connect with me!
+
+[<img align="left" alt="Youtube | YouTube" width="22px" src="https://svgshare.com/i/d5w.svg" />][youtube]
+
+<br />
+
+---
+
 [![TechStudent11's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechStudent11&show_icons=true&theme=tokyonight)](https://github.com/TechStudent11)
+
+[youtube]: https://www.youtube.com/channel/UCzb9_b2UY29xuY-S8BsmpOg
+
