@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 [![TechStudent11's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechStudent11&show_icons=true&theme=tokyonight)](https://github.com/TechStudent11)
 
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechStudent11&layout=compact&langs_count=100)
+
 [website]: https://techstudent11.herokuapp.com
 [youtube]: https://www.youtube.com/channel/UCzb9_b2UY29xuY-S8BsmpOg
 
