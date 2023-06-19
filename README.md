@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Connect with me!
 
-<img align="left" alt="Youtube | YouTube" width="22px" src="https://svgshare.com/i/d5w.svg" />
+<a href="https://www.youtube.com/@techstudent11"> <img align="left" alt="Youtube | YouTube" width="22px" src="https://svgshare.com/i/d5w.svg" /> </a>
 
 <br />
 
