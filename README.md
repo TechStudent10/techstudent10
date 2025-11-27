@@ -6,10 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [Proton](https://github.com/ProtonDesigner), my own personal hobby project.
-- 🌱 I’m currently learning how to mod Geometry Dash using C++.
-- 👯 I’m looking to collaborate on my own hobby projects.
-- 📫 How to reach me: The [Discussions Tab](https://github.com/TechStudent10/techstudent10/discussions), my [YouTube channel](https://www.youtube.com/@_scored), or my [Discord server](https://discord.gg/xvACqqYDer).
+- 🔭 I’m currently working on [Paperclip](https://github.com/TechStudent10/paperclip), my own personal hobby project.
+- 🌱 I’m currently learning how to manipulate video files and C++.
+- 📫 How to reach me: The [Discussions Tab](https://github.com/TechStudent10/techstudent10/discussions), or my [YouTube channel](https://www.youtube.com/@_scored).
 - ⚡ Fun fact: I can't keep a project alive for more than a month, but I am looking to change that with Proton.
 <img src="https://komarev.com/ghpvc/?username=TechStudent10" alt="Profile Views" />
 
